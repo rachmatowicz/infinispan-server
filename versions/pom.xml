@@ -32,7 +32,7 @@
     <version.org.jboss.as>7.2.0.Final</version.org.jboss.as>
     <version.org.jboss.jandex>1.0.3.Final</version.org.jboss.jandex>
     <version.org.jboss.jbossts.jbossjts>4.16.2.Final</version.org.jboss.jbossts.jbossjts>
-    <version.com.thoughtworks.xstream>1.4.1</version.com.thoughtworks.xstream>
+    <version.com.thoughtworks.xstream>1.4.10-java7</version.com.thoughtworks.xstream>
     <version.junit>4.10</version.junit>
     <version.org.infinispan>${project.version}</version.org.infinispan>
     <version.org.jgroups>3.3.1.Final</version.org.jgroups>
